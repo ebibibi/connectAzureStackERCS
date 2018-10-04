@@ -1,0 +1,2 @@
+$cloudadminUserName = 'yourdomainname\cloudadmin'
+$ErcsVmIP = 'yourErcsVMIP'
